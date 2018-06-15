@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="726f24c2-a74f-4f51-ae26-d886a11ca545" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/hackathon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hackathon.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rubot/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rubot/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rubot/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rubot/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rubot/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rubot/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rubot/templates/Rubot/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/Rubot/templates/Rubot/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rubot/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rubot/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rubot/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rubot/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/credentials.json" beforeDir="false" afterPath="$PROJECT_DIR$/credentials.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackathon/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackathon/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackathon/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackathon/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackathon/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackathon/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/angular/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/angular/LICENSE.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/angular/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/angular/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/angular/angular-csp.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/angular/angular-csp.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/angular/angular.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/angular/angular.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/angular/angular.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/angular/angular.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/angular/angular.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/angular/angular.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/angular/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/angular/bower.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/angular/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/angular/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/angular/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/angular/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rubot/views.py" afterPath="$PROJECT_DIR$/Rubot/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,8 +38,42 @@
       <file leaf-file-name="search.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Rubot/templates/Rubot/search.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="574">
-              <caret line="49" column="28" lean-forward="true" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
+            <state relative-caret-position="627">
+              <caret line="33" column="32" lean-forward="false" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+              <folding>
+                <marker date="1529085520048" expanded="true" signature="3622:3641" ph="..." />
+                <marker date="1529085520048" expanded="true" signature="3622:3656" ph="..." />
+                <marker date="1529085520048" expanded="true" signature="3622:3667" ph="..." />
+                <marker date="1529085520048" expanded="true" signature="3622:3674" ph="..." />
+                <marker date="1529085520048" expanded="true" signature="3682:4093" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hackathon/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="36" column="33" lean-forward="false" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+              <folding>
+                <marker date="1529085520052" expanded="true" signature="1100:1498" ph="..." />
+                <marker date="1529085520052" expanded="true" signature="1547:2059" ph="..." />
+                <marker date="1529085520052" expanded="true" signature="1553:2056" ph="..." />
+                <marker date="1529085520052" expanded="true" signature="1733:2049" ph="..." />
+                <marker date="1529085520052" expanded="true" signature="1769:2038" ph="..." />
+                <marker date="1529085520052" expanded="true" signature="2111:2186" ph="..." />
+                <marker date="1529085520052" expanded="true" signature="2201:2327" ph="..." />
+                <marker date="1529085520052" expanded="true" signature="2218:2325" ph="..." />
+                <marker date="1529085520052" expanded="true" signature="2330:2431" ph="..." />
+                <marker date="1529085520052" expanded="true" signature="2461:2855" ph="..." />
+                <marker date="1529085520052" expanded="true" signature="2467:2564" ph="..." />
+                <marker date="1529085520052" expanded="true" signature="2572:2659" ph="..." />
+                <marker date="1529085520052" expanded="true" signature="2667:2755" ph="..." />
+                <marker date="1529085520052" expanded="true" signature="2763:2852" ph="..." />
+                <marker date="1529085520052" expanded="true" signature="2858:2934" ph="..." />
+                <marker date="1529085520052" expanded="true" signature="3029:3130" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,10 +81,20 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Rubot/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="75" column="103" selection-start-line="75" selection-start-column="103" selection-end-line="75" selection-end-column="103" />
+            <state relative-caret-position="400">
+              <caret line="74" column="33" lean-forward="true" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hackathon/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
               <folding>
-                <element signature="e#24#63#0" expanded="true" />
+                <element signature="e#643#675#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -132,10 +147,22 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,6 +174,11 @@
               <item name="Rubot" type="b2602c69:ProjectViewProjectNode" />
               <item name="Rubot" type="462c0819:PsiDirectoryNode" />
               <item name="hackathon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Rubot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rubot" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Rubot" type="b2602c69:ProjectViewProjectNode" />
@@ -170,7 +202,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -200,7 +231,6 @@
   </component>
   <component name="RunManager">
     <configuration name="hackathon" type="Python.DjangoServer" factoryName="Django server">
-      <module name="hackathon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -212,6 +242,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hackathon" />
       <option name="launchJavascriptDebuger" value="false" />
       <option name="port" value="8000" />
       <option name="host" value="" />
@@ -222,6 +253,9 @@
       <option name="useCustomRunCommand" value="false" />
       <option name="customRunCommand" value="" />
     </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -237,32 +271,29 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="0" width="2560" height="1440" extended-state="0" />
+    <frame x="75" y="34" width="1855" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2614488" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32967034" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32967034" />
-      <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13264495" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32962668" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,7 +302,163 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hackathon/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="33" lean-forward="false" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+          <folding>
+            <marker date="1529085520052" expanded="true" signature="1100:1498" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="1547:2059" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="1553:2056" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="1733:2049" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="1769:2038" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2111:2186" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2201:2327" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2218:2325" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2330:2431" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2461:2855" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2467:2564" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2572:2659" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2667:2755" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2763:2852" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2858:2934" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="3029:3130" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackathon/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding>
+            <element signature="e#643#675#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rubot/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackathon/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1824">
+          <caret line="96" column="6" lean-forward="true" selection-start-line="96" selection-start-column="6" selection-end-line="96" selection-end-column="6" />
+          <folding>
+            <marker date="1529085520052" expanded="true" signature="1100:1498" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="1547:2059" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="1553:2056" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="1733:2049" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="1769:2038" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2111:2186" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2201:2327" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2218:2325" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2330:2431" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2461:2855" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2467:2564" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2572:2659" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2667:2755" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2763:2852" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2858:2934" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="3029:3130" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackathon/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding>
+            <element signature="e#643#675#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rubot/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/django/utils/autoreload.py" />
+    <entry file="file://$PROJECT_DIR$/Rubot/urls.py" />
+    <entry file="file://$PROJECT_DIR$/hackathon/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding>
+            <element signature="e#643#675#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackathon/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="33" lean-forward="false" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+          <folding>
+            <marker date="1529085520052" expanded="true" signature="1100:1498" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="1547:2059" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="1553:2056" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="1733:2049" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="1769:2038" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2111:2186" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2201:2327" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2218:2325" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2330:2431" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2461:2855" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2467:2564" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2572:2659" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2667:2755" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2763:2852" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2858:2934" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="3029:3130" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rubot/templates/Rubot/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+          <folding>
+            <marker date="1529085520048" expanded="true" signature="3622:3641" ph="..." />
+            <marker date="1529085520048" expanded="true" signature="3622:3656" ph="..." />
+            <marker date="1529085520048" expanded="true" signature="3622:3667" ph="..." />
+            <marker date="1529085520048" expanded="true" signature="3622:3674" ph="..." />
+            <marker date="1529085520048" expanded="true" signature="3682:4093" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rubot/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1273">
+          <caret line="67" column="15" lean-forward="false" selection-start-line="67" selection-start-column="15" selection-end-line="67" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hackathon/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1824">
@@ -292,10 +479,8 @@
     <entry file="file://$PROJECT_DIR$/Rubot/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
-          <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
-          <folding>
-            <element signature="e#24#63#0" expanded="true" />
-          </folding>
+          <caret line="35" column="23" lean-forward="false" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -308,68 +493,67 @@
     </entry>
     <entry file="file:///Library/Python/2.7/site-packages/django/utils/autoreload.py" />
     <entry file="file://$PROJECT_DIR$/Rubot/urls.py" />
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/hackathon/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1197">
-          <caret line="63" column="14" lean-forward="true" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
+        <state relative-caret-position="684">
+          <caret line="36" column="33" lean-forward="false" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+          <folding>
+            <marker date="1529085520052" expanded="true" signature="1100:1498" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="1547:2059" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="1553:2056" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="1733:2049" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="1769:2038" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2111:2186" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2201:2327" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2218:2325" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2330:2431" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2461:2855" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2467:2564" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2572:2659" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2667:2755" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2763:2852" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="2858:2934" ph="..." />
+            <marker date="1529085520052" expanded="true" signature="3029:3130" ph="..." />
+          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/credentials.json">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Rubot/migrations/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rubot/admin.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rubot/apps.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/hackathon/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+        <state relative-caret-position="361">
+          <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
           <folding>
             <element signature="e#643#675#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Rubot/models.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rubot/tests.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Rubot/templates/Rubot/search.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="574">
-          <caret line="49" column="28" lean-forward="true" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
+        <state relative-caret-position="627">
+          <caret line="33" column="32" lean-forward="false" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+          <folding>
+            <marker date="1529085520048" expanded="true" signature="3622:3641" ph="..." />
+            <marker date="1529085520048" expanded="true" signature="3622:3656" ph="..." />
+            <marker date="1529085520048" expanded="true" signature="3622:3667" ph="..." />
+            <marker date="1529085520048" expanded="true" signature="3622:3674" ph="..." />
+            <marker date="1529085520048" expanded="true" signature="3682:4093" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Rubot/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="75" column="103" selection-start-line="75" selection-start-column="103" selection-end-line="75" selection-end-column="103" />
-          <folding>
-            <element signature="e#24#63#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="400">
+          <caret line="74" column="33" lean-forward="true" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>

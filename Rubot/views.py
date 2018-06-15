@@ -73,7 +73,7 @@ def get_confluence_result(query):
                             params=params, auth=('su.pu@rubrik.com', 'DKkNoDGe4oyoVAaHAxssC85A')).json()
     list = []
     for f in response['results']:
-        myDict = {"name": f['title'].replace("@@@", " "), "link": 'https://rubrik.atlassian.net/wiki' + f['url']}
+        myDict = {"name": f['title'].replace("@@@hl@@@", "").replace("@@@endhl@@@",""), "link": 'https://rubrik.atlassian.net/wiki' + f['url']}
         list.append(myDict)
     return list
 
