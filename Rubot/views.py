@@ -73,7 +73,7 @@ def get_confluence_result(query):
                             params=params, auth=('su.pu@rubrik.com', 'DKkNoDGe4oyoVAaHAxssC85A')).json()
     list = []
     for f in response['results']:
-        myDict = {"name": f['title'], "link": f['url']}
+        myDict = {"name": f['title'].replace("@@@", " "), "link": 'https://rubrik.atlassian.net/wiki' + f['url']}
         list.append(myDict)
     return list
 
@@ -114,16 +114,20 @@ def get_slack_result():
         list.append(myDict)
     return list
 
-def search_result(request):
-	query ="query"
-	if request.method=="POST":
-		query=request.POST.get("query",None)
-	google=get_googleDrive_result(query)
-	# myDict = {"name": query, "link": "www.google.com"}
-	# google.append(myDict)
-	con=get_confluence_result(query)
-	jira=get_jira_result(query)
-	#slack=get_slack_result()
-	return render(request, 'Rubot/search.html', {"drive_data": google,"con_data": con,"jira_data": jira})
 
-	#,"slack_data": slack
+def search_result(request):
+    query ="query"
+    if request.method=="POST":
+        query=request.POST.get("query",None)
+    google=get_googleDrive_result(query)
+    # myDict = {"name": query, "link": "www.google.com"}
+    # google.append(myDict)
+    con=get_confluence_result(query)
+    jira=get_jira_result(query)
+    #slack=get_slack_result()
+
+    print('confluence result: ', con)
+
+    return render(request, 'Rubot/search.html', {"drive_data": google,"con_data": con,"jira_data": jira})
+
+    #,"slack_data": slack
