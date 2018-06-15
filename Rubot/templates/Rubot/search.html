@@ -18,7 +18,10 @@
 </head>
 <body>
 <div class="col">
-    <input type="text" id="myInput" placeholder="Type to Search"><button class="search_button">search</button>
+    <form method="POST">
+        <input type="text" name="query" id="myInput" placeholder="Type to Search"></input>
+        <input type="submit" value="search" class="search_button"></input>
+    </form>
 </div>
 <div class="container">
     <div class="row">
@@ -26,36 +29,56 @@
             <div class="card-body">
                 <h5 class="card-title">Jira</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Related Result get from Jira</h6>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                    card's
-                    content.</p>
+                <h6 class="card-subtitle mb-2 text-muted">
+                    {% for d in jira_data %}
+                        <a href="{{d.link}}">
+                            {{d.name}}
+                        </a>
+                        <br></br>
+                    {% endfor %}
+                </h6>
             </div>
         </div>
         <div class="card  col-6" style="width: 18rem;">
             <div class="card-body">
                 <h5 class="card-title">Google Drive</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Related Result get from Google Drive</h6>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                    card's
-                    content.</p>
+                <h6 class="card-subtitle mb-2 text-muted">
+                    {% for d in drive_data %}
+                        <a href="{{d.link}}">
+                            {{d.name}}
+                        </a>
+                        <br></br>
+                    {% endfor %}
+                </h6>
             </div>
         </div>
         <div class="card  col-6" style="width: 18rem;">
             <div class="card-body">
                 <h5 class="card-title">Confluence</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Related Result get from Confluence</h6>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                    card's
-                    content.</p>
+                <h6 class="card-subtitle mb-2 text-muted">
+                    {% for d in con_data %}
+                        <a href="{{d.link}}">
+                            {{d.name}}
+                        </a>
+                        <br></br>
+                    {% endfor %}
+                </h6>
             </div>
         </div>
         <div class="card  col-6" style="width: 18rem;">
             <div class="card-body">
                 <h5 class="card-title">Slack</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Related Result get from Slack</h6>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                    card's
-                    content.</p>
+                <h6 class="card-subtitle mb-2 text-muted">
+<!--                     {% for d in slack_data %}
+                        <a href="{{d.link}}">
+                            {{d.name}}
+                        </a>
+                        <br></br>
+                    {% endfor %} -->
+                </h6>
             </div>
         </div>
     </div>

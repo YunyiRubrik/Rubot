@@ -19,5 +19,5 @@ import Rubot.views as rubot_views
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^$', rubot_views.manageSearch),
+    url(r'^$', rubot_views.search_result)
 ]
